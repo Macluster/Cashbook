@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "270472851846",
+    "firebase_url": "https://cashapp-c5ab6-default-rtdb.firebaseio.com",
+    "project_id": "cashapp-c5ab6",
+    "storage_bucket": "cashapp-c5ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270472851846:android:7d936cfc096a6574eefc07",
+        "android_client_info": {
+          "package_name": "com.example.cashbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270472851846-q7lqv0jkqgf6mn2838psnn3pbajuko1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkWIUx7f09HlZXqJl2pUbiIqtGfXx2ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270472851846-q7lqv0jkqgf6mn2838psnn3pbajuko1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270472851846:android:afe83a7ebe5bbd37eefc07",
+        "android_client_info": {
+          "package_name": "com.example.transactionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270472851846-q7lqv0jkqgf6mn2838psnn3pbajuko1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkWIUx7f09HlZXqJl2pUbiIqtGfXx2ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270472851846-q7lqv0jkqgf6mn2838psnn3pbajuko1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
