@@ -1,6 +1,6 @@
 # books_app
 
-<h2>Screenshot</h2>
+<h2>Screenshots</h2>
 
 <p float ="left">
 <img src="https://github.com/Macluster/Cashbook/blob/main/1.jpg" width="200">
